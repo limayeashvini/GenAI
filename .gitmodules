@@ -13,3 +13,6 @@
 [submodule "1st-AI-chatbot"]
 	path = 1st-AI-chatbot
 	url = https://github.com/limayeashvini/1st-AI-chatbot.git
+[submodule "genAiWorkflow"]
+	path = genAiWorkflow
+	url = https://github.com/limayeashvini/genAiWorkflow.git
