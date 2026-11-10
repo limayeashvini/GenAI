@@ -1,0 +1,15 @@
+[submodule "StructuredOutputParsers"]
+	path = StructuredOutputParsers
+	url = https://github.com/limayeashvini/StructuredOutputParsers.git
+[submodule "Prompt_Engg"]
+	path = Prompt_Engg
+	url = https://github.com/limayeashvini/Prompt_Engg.git
+[submodule "lora-finetuning"]
+	path = lora-finetuning
+	url = https://github.com/limayeashvini/lora-finetuning.git
+[submodule "langchain-llm-component-demo"]
+	path = langchain-llm-component-demo
+	url = https://github.com/limayeashvini/langchain-llm-component-demo.git
+[submodule "1st-AI-chatbot"]
+	path = 1st-AI-chatbot
+	url = https://github.com/limayeashvini/1st-AI-chatbot.git
